@@ -5,8 +5,6 @@ Check VPS SDK without visiting real location:
 2. Grant all necessary permissions
 3. **IMPORTANT**: Replace `"your-api-key-here"` in `SceneFragment.kt` with your actual API key
 4. Make a long tap on a phone display. App should show this debug menu:
-
-    <img src="./img/img_1.jpg" width="240">
 4. Change settings to:
 - Autofocus - check
 - GPS - uncheck
