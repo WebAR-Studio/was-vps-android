@@ -1,0 +1,4 @@
+include(
+    ":wasvps-sdk",
+    ":sample"
+)
